@@ -39,7 +39,7 @@ conda activate telebot
 
 pip install -r requirements.txt
 
-# Architecture
+## 🏗️ Architecture
 
 User (Telegram)
       ↓
